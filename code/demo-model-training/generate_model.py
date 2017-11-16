@@ -89,7 +89,7 @@ def main(_):
   # in-lined in tutorials, please update tutorial documents accordingly
   # whenever code changes.
   # export_path_base = sys.argv[-1]
-  export_path_base = '/home/yubozhao/mnist_models'
+  export_path_base = '/home/yubozhao/mnist_model'
   export_path = os.path.join(
       tf.compat.as_bytes(export_path_base),
       tf.compat.as_bytes(str(FLAGS.model_version)))
