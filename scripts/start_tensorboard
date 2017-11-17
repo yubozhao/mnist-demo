@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tensorboard --logdir /home/yubozhao/tensor-log --port 6006

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /home/yubozhao/mnist-demo/code/generate_model.py /home/yubozhao/model

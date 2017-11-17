@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/yubozhao
+mkdir tensor-log
+python /home/yubozhao/mnist-demo/code/generate-tensorflow-log.py
